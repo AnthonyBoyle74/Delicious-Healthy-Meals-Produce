@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Hungryhoot.com
 
 You can use the [editor on GitHub](https://github.com/AnthonyBoyle74/irish-mountain-hikes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
