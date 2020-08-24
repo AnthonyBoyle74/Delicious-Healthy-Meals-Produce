@@ -1,3 +1,3 @@
 # irish-mountain-hikes.
-Hiking Irelands Favorite Mountains. 
+Hiking Irelands Mountains & Trails. 
 And this is [another page](another-page)
