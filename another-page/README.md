@@ -1,3 +1,3 @@
-# Another Page
+# Local Produce
 
-This is a new page.
+This is a selection of our delicious local produce.
